@@ -30,7 +30,6 @@ def exibirGrafico():
 
     plt.scatter(df_limpo['area'], df_limpo['preco'])
 
-
     plt.title('Área (m²) x Preço (R$ mil)')
 
     plt.xlabel('Área (m²)')
