@@ -1,3 +1,3 @@
-import aula03 as aula03
+import recuperacao as recuperacao
 
-aula03.exibirGrafico()
+recuperacao.exibirGrafico()
